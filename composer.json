@@ -1,0 +1,17 @@
+{
+    "name": "rlpc/cursos",
+    "description": "manejo alumnos curso php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rlpc\\Cursos\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "dompdf/dompdf": "dev-master",
+        "ext-intl": "*",
+        "phpoffice/phpspreadsheet": "1.28"
+    }
+}

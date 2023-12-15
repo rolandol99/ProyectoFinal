@@ -1,0 +1,1 @@
+<h1>No existe la página 404.</h1>
